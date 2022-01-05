@@ -1,0 +1,16 @@
+C:\Users\Maikel\Desktop\Projetos\Construtores\ExemploConstrutores\bin\Debug\net5.0\Exemploconstrutores.exe
+C:\Users\Maikel\Desktop\Projetos\Construtores\ExemploConstrutores\bin\Debug\net5.0\Exemploconstrutores.deps.json
+C:\Users\Maikel\Desktop\Projetos\Construtores\ExemploConstrutores\bin\Debug\net5.0\Exemploconstrutores.runtimeconfig.json
+C:\Users\Maikel\Desktop\Projetos\Construtores\ExemploConstrutores\bin\Debug\net5.0\Exemploconstrutores.runtimeconfig.dev.json
+C:\Users\Maikel\Desktop\Projetos\Construtores\ExemploConstrutores\bin\Debug\net5.0\Exemploconstrutores.dll
+C:\Users\Maikel\Desktop\Projetos\Construtores\ExemploConstrutores\bin\Debug\net5.0\ref\Exemploconstrutores.dll
+C:\Users\Maikel\Desktop\Projetos\Construtores\ExemploConstrutores\bin\Debug\net5.0\Exemploconstrutores.pdb
+C:\Users\Maikel\Desktop\Projetos\Construtores\ExemploConstrutores\obj\Debug\net5.0\Exemploconstrutores.csproj.AssemblyReference.cache
+C:\Users\Maikel\Desktop\Projetos\Construtores\ExemploConstrutores\obj\Debug\net5.0\Exemploconstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maikel\Desktop\Projetos\Construtores\ExemploConstrutores\obj\Debug\net5.0\Exemploconstrutores.AssemblyInfoInputs.cache
+C:\Users\Maikel\Desktop\Projetos\Construtores\ExemploConstrutores\obj\Debug\net5.0\Exemploconstrutores.AssemblyInfo.cs
+C:\Users\Maikel\Desktop\Projetos\Construtores\ExemploConstrutores\obj\Debug\net5.0\Exemploconstrutores.csproj.CoreCompileInputs.cache
+C:\Users\Maikel\Desktop\Projetos\Construtores\ExemploConstrutores\obj\Debug\net5.0\Exemploconstrutores.dll
+C:\Users\Maikel\Desktop\Projetos\Construtores\ExemploConstrutores\obj\Debug\net5.0\ref\Exemploconstrutores.dll
+C:\Users\Maikel\Desktop\Projetos\Construtores\ExemploConstrutores\obj\Debug\net5.0\Exemploconstrutores.pdb
+C:\Users\Maikel\Desktop\Projetos\Construtores\ExemploConstrutores\obj\Debug\net5.0\Exemploconstrutores.genruntimeconfig.cache
